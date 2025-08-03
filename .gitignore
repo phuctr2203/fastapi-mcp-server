@@ -1,0 +1,22 @@
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+*.sqlite3
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# OS metadata
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# Uvicorn or FastAPI logs (optional)
+*.log
