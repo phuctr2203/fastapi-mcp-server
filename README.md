@@ -29,3 +29,12 @@ A simple FastAPI application that allows users to store and search video game in
 
 This project uses GitHub Copilot MCP server for enhanced suggestions, structured context, and language-aware completions. Make sure your IDE is configured to point to your MCP server.
 
+## 💬 Chat without MCP Integration
+
+![Chat without MCP](assets/chat_without_mcp.png)
+
+---
+
+## 🤖 Chat with MCP Integration
+
+![Chat with MCP](assets/chat_with_mcp.png)
